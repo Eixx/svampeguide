@@ -5,18 +5,12 @@
                android:label="@string/app_name"
                android:icon="@mipmap/ic_launcher"
                android:theme="@style/AppTheme">
-
-<<<<<<< HEAD
     <activity android:name=".SvampeActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
-
     </activity>
-
-=======
->>>>>>> 064f4011b763a107b01f42e8ac4d1c79e05015ed
   </application>
 
 </manifest>
