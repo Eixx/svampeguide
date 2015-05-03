@@ -1,3 +1,14 @@
 <resources>
   <string name="app_name">SvampeGuide</string>
+
+  <string name="lorem">Lorem ipsum dolor sit amet, diam tempus ac vestibulum dis, consectetuer morbi mauris qui volutpat donec. Nec tincidunt pharetra enim urna eget cursus, imperdiet ut cras velit interdum sed elit, venenatis consectetur in dolor ut tincidunt, lacinia nullam nisl ipsum est tellus litora. Donec sem vehicula velit imperdiet in, orci aptent accumsan feugiat lacus ante. Adipiscing nec ut sed lobortis, sapien lectus eget pulvinar ad non, pellentesque wisi. Nulla ut amet tincidunt lobortis massa. Sed mauris euismod maecenas nec, ipsum lobortis. Neque amet. Neque nunc, nunc at non dui, nec cursus neque, lorem at, integer dui. Hac metus aptent, blandit tempus id quisque.</string>
+
+  <string-array name="nav_draw_titles">
+    <item>Svampe</item>
+    <item>Sæson</item>
+    <item>Forum</item>
+    <item>Kort</item>
+    <item>Introduktion</item>
+    <item>Om App\'en</item>
+  </string-array>
 </resources>
